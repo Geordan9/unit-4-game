@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+
+img{
+    width: 100%;
+}
+.characterBox{
+    padding: 0px;
+    margin: 0px 3px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: red;
+}
+.characterBox:hover{
+    border-color: blue;
+}
+.characterBox div{
+    text-align: center;
+    margin: 0 auto;
+}
